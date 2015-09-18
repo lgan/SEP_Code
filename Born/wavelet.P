@@ -1,0 +1,1 @@
+ wavelet=ricker2 n1=128 d1=.0015 degrees=2.0116 
